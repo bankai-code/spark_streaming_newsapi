@@ -1,5 +1,3 @@
-# spark_streaming_newsapi
-News Articles Spark Streaming Project
 # Real-time Named Entity Recognition for News Articles
 
 This project implements a workflow for performing Named Entity Recognition (NER) on news articles obtained from the NewsAPI. It processes the data using Apache Spark, streams it into Elasticsearch via Logstash, and visualizes the results using Kibana.
